@@ -1,0 +1,5 @@
+{
+  "name": "Trippie 旅費管家",
+  "description": "專為旅行設計的記帳軟體，分為旅行前、中、後三階段，支援多幣別自動換算 TWD 與 AI 智慧記帳功能。",
+  "requestFramePermissions": []
+}
